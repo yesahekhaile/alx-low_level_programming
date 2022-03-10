@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc -S $CFILE -dumpbase-ext .o
+gcc -c $CFILE
