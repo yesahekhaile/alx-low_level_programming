@@ -9,11 +9,16 @@
 
 int main(void)
 {
-	int x;
+	int x, y, j;
 
 	for (x = 'A'; x <= 'Z'; x++)
 	{
-		putchar(x);
+		y = tolower(x);
+		putchar(y);
+	}
+	for (j = 'A'; j <= 'Z'; j++)
+	{
+		putchar(j);
 	}
 	putchar(10);
 	return (0);
