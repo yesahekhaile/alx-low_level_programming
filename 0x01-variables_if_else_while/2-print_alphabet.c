@@ -16,6 +16,6 @@ int main(void)
 		y = tolower(x);
 		putchar(y);
 	}
-	puts("\n");
+	putchar(10);
 	return (0);
 }
