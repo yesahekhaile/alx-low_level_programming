@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * main - This is the main function
+ * main - main function dispaly _putchar
  *
  * Return: Always 0 (Success)
  */
