@@ -14,7 +14,7 @@ int main(void)
 	{
 	_putchar(b[i]);
 	}
-	_putchar(10);
+	_putchar("\n");
 	return (0);
 }
 
